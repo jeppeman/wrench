@@ -1,3 +1,6 @@
+# Archived
+Development of this repository has been moved [Toggles](https://github.com/erikeelde/toggles) 
+
 # Wrench - feature switching
 
 Store app settings / feature toggles in an external application making in persist across clean data / reinstalls.
